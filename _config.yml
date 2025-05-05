@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ming Zhan"
-description              : "Incoming PhD student at The University of Utah"
-repository               : "MingmZhan/MingmZhan.github.io"
+title                    : "Zongyu Li"
+description              : "Graduate student at the University of Leeds"
+repository               : "THEAKYRAyu/Lizongyu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ming Zhan"
-  avatar           : "images/profile.png"
-  bio              : "University of Utah"
-  location         : "Utah, USA"
+  name             : "Zongyu"
+  avatar           : 
+  bio              : "University of Leeds"
+  location         : "Leeds, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhanming1208@gmail.com"
+  email            : "lizongyu9802@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MingmZhan"
+  github           : "THEAKYRAyu"
   google_plus      :
   keybase          :
   instagram        :
