@@ -76,7 +76,7 @@ My research interests include service design, user experience design, web design
   - Conducted surveys in national and international markets of visual communication design and followed the latest styles, ideas, and industry trends
   - Made field trips to five strong vision sites to get first-hand experience of visual communication design
 
-# 📔 Skills
+# 🛠️ Skills
 - Software: Photoshop, Procreate, Adobe series, Office series, Figma, TouchDesigner, Arduino, Blender, XD, 3Dmax, C4D, Nomad, WeChat Official Account Backstage, XIUMI
 - Language: Mandarin, English, Japanese
 
