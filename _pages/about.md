@@ -22,7 +22,7 @@ I am now a Masters student at the University of Leeds(2024-2025).[The University
 
 My research interests include service design, user experience design, web design, ui/ux design, and design thinking. The main courses are design strategy, interaction design, sustainable design, user research.
 
-You can find my CV here: [(https://drive.google.com/file/d/1LhkiXyyht926sB79pTXZwShcssWJR-Jv/view?usp=drive_link)](../assets/Zongyu Li CV.pdf). 
+You can find my CV here: [Zongyu Li's Curriculum Vitae](../assets/Zongyu Li CV.pdf). 
 
 # 🎖 Honors and Awards
 - *Silver Prize, 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition (national level)
